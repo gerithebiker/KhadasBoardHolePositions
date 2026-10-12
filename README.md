@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gphase-logo.svg" width="280" alt="GPhase logo">
+  <img src="assets/GPhase_logo.svg" width="280" alt="GPhase logo">
 </p>
 
 # Khadas Tone2 Maker V1.2 – Mounting Hole Layout
