@@ -1,2 +1,24 @@
-# KhadasBoardHolePositions
-A dimensioned mounting-hole drawing for the Khadas Tone2 Maker V12 board.
+<p align="center">
+  <img src="assets/gphase-logo.svg" width="280" alt="GPhase logo">
+</p>
+
+# Khadas Tone2 Maker V1.2 – Mounting Hole Layout
+
+A dimensioned mounting-hole drawing for the Khadas Tone2 Maker V1.2 board.
+
+The official Khadas mechanical documentation does not explicitly provide all mounting-hole center coordinates. This drawing was created using the official Khadas 3D model to make mechanical design and mounting bracket development easier.
+
+**Contents**
+- Mounting hole positions and diameters
+- Board dimensions
+- Top view with connector references
+- PDF and SVG drawings
+- Editable FreeCAD source
+
+**Notes**
+
+All dimensions are in millimeters. This is an independently prepared reference drawing, not an official Khadas manufacturing document.
+
+Verify dimensions and PCB revision before manufacturing mating components.
+
+**Prepared by Geri | GPhase.**
