@@ -2,7 +2,7 @@
   <img src="assets/GPhase_logo.svg" width="280" alt="GPhase logo">
 </p>
 
-# Khadas Tone2 Maker V1.2 – Mounting Hole Layout
+# Khadas Tone2 Maker V12 – Mounting Hole Layout
 
 A dimensioned mounting-hole drawing for the Khadas Tone2 Maker V1.2 board.
 
