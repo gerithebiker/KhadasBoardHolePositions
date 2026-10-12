@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/GPhaseWhiteOutline.png" width="280" alt="GPhase logo">
+  <img src="assets/GPhaseWhiteOutline.png" width="140" alt="GPhase logo">
 </p>
 
 # Khadas Tone2 Maker V12 – Mounting Hole Layout
